@@ -7,3 +7,4 @@
 ## 0x01 具体使用可以看 `test.py`
 
 ## 0x33 感谢大佬们提供的服务
+> ### **项目使用签名服务来自 [vsdouyin](https://github.com/vsdouyin/douyin-service)**
